@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'Kozmopolit Beden Terbiyecisi',
   author: 'Omer Deger',
-  email: 'omerdeger42@gmail.com',
+  email: 'omarodafo@gmail.com',
   link: 'https://omerdeger.com',
   description: 'bir beden terbiyecisinin itirafları.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
