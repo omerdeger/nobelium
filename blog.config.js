@@ -1,4 +1,4 @@
-const BLOG = {
+mconst BLOG = {
   title: 'Kozmopolit Beden Terbiyecisi',
   author: 'Omer Deger',
   email: 'omerdeger42@gmail.com',
@@ -47,7 +47,7 @@ const BLOG = {
       distractionFreeMode: false
     },
     utterancesConfig: {
-      repo: 'omerdeger/blog-comments'
+      repo: 'omerdeger/nobelium'
     },
     cusdisConfig: {
       appId: '', // data-app-id
