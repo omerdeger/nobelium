@@ -3,7 +3,7 @@ mconst BLOG = {
   author: 'Omer Deger',
   email: 'omerdeger42@gmail.com',
   link: 'https://omerdeger.com',
-  description: 'bir beden terbiyesinin itirafları.',
+  description: 'bir beden terbiyecisinin itirafları.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -15,11 +15,11 @@ mconst BLOG = {
   sortByDate: false,
   showAbout: true,
   showArchive: true,
-  autoCollapsedNavBar: true, // The automatically collapsed navigation bar
+  autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/omerdeger',
   seo: {
-    keywords: ['Blog', 'Website', 'Omer', 'Deger'],
+    keywords: ['Blog', 'Website'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
